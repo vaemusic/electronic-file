@@ -3,7 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@antfu/eslint-config': ^0.20.2
   '@iconify-json/carbon': ^1.1.3
-  '@kjgl77/datav-vue3': ^0.1.6
+  '@kjgl77/datav-vue3': ^0.1.7
   '@types/node': ^17.0.23
   '@unocss/reset': ^0.31.0
   '@vitejs/plugin-vue': ^2.3.1
@@ -25,7 +25,7 @@ specifiers:
   vue-tsc: ^0.34.2
 
 dependencies:
-  '@kjgl77/datav-vue3': registry.npmmirror.com/@kjgl77/datav-vue3/0.1.6
+  '@kjgl77/datav-vue3': registry.npmmirror.com/@kjgl77/datav-vue3/0.1.7
   '@vueuse/core': 8.2.5_vue@3.2.31
   vue: 3.2.31
   vue-router: 4.0.14_vue@3.2.31
@@ -3700,12 +3700,11 @@ packages:
       '@babel/runtime': registry.npmmirror.com/@babel/runtime/7.17.9
     dev: false
 
-  registry.npmmirror.com/@kjgl77/datav-vue3/0.1.6:
-    resolution: {integrity: sha512-9CBgsYlldaz5/yYT4uBNYafbcODdIKrqFoEDFuAipW8dKJzF6qGgO6zjpWrOl9UPUr52P0s2MX6sSPAFSY66IQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@kjgl77/datav-vue3/-/datav-vue3-0.1.6.tgz}
+  registry.npmmirror.com/@kjgl77/datav-vue3/0.1.7:
+    resolution: {integrity: sha512-tzXtMVzpYs6Npea7krltL92OhgCqqCrpTuFUNdWjNrvBoKq0/CZ0v7tBSLs2feLaIDMbHvGNK5zk0EZautyYsw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@kjgl77/datav-vue3/-/datav-vue3-0.1.7.tgz}
     name: '@kjgl77/datav-vue3'
-    version: 0.1.6
+    version: 0.1.7
     dependencies:
-      '@babel/runtime': registry.npmmirror.com/@babel/runtime/7.17.9
       '@jiaminghi/c-render': registry.npmmirror.com/@jiaminghi/c-render/0.4.3
       '@jiaminghi/charts': registry.npmmirror.com/@jiaminghi/charts/0.2.18
       '@vueuse/core': registry.npmmirror.com/@vueuse/core/8.2.5_vue@3.2.31
