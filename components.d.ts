@@ -6,9 +6,7 @@ declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     BottomCharts: typeof import('./src/components/datav/BottomCharts.vue')['default']
     CenterCmp: typeof import('./src/components/datav/CenterCmp.vue')['default']
-    Counter: typeof import('./src/components/Counter.vue')['default']
     Datav: typeof import('./src/components/datav/index.vue')['default']
-    Footer: typeof import('./src/components/Footer.vue')['default']
     LabelTag: typeof import('./src/components/datav/LabelTag.vue')['default']
     LeftChart1: typeof import('./src/components/datav/LeftChart1.vue')['default']
     LeftChart2: typeof import('./src/components/datav/LeftChart2.vue')['default']
