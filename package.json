@@ -10,7 +10,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@kjgl77/datav-vue3": "^0.2.0",
+    "@kjgl77/datav-vue3": "^1.0.0",
     "@vueuse/core": "^8.2.5",
     "vue": "^3.2.31",
     "vue-router": "^4.0.14"
